@@ -1,0 +1,22 @@
+{
+  "name": "mqtt_client_js",
+  "version": "1.0.0",
+  "description": "Cliente MQTT em JavaScript com AES-CCM (tradução do original TypeScript/Python)",
+  "main": "main.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [
+    "mqtt",
+    "aes-ccm",
+    "encryption",
+    "cli"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mqtt": "^5.0.0"
+  }
+}
